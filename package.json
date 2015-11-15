@@ -1,0 +1,30 @@
+{
+  "name": "kuroneko-nightmare",
+  "version": "0.0.1",
+  "description": "this is nightmare test package for capture kuroneko-yamato home-delivery tracing service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikasumiwt/kuroneko-nightmare.git"
+  },
+  "keywords": [
+    "nightmare",
+    "test",
+    "kuroneko",
+    "yamato"
+  ],
+  "author": "ikasumi_wt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ikasumiwt/kuroneko-nightmare/issues"
+  },
+  "homepage": "https://github.com/ikasumiwt/kuroneko-nightmare#readme",
+  "dependencies": {
+    "cron": "^1.0.9",
+    "nightmare": "^2.0.7",
+    "time": "^0.11.4"
+  }
+}
